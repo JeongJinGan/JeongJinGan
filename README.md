@@ -12,5 +12,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJinGan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=JeongJinGan&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/rkswjdwls/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkswjdwls)](https://solved.ac/rkswjdwls/)
                    
