@@ -7,7 +7,7 @@
 | ----------------------------- | ----------------- |
 | University(associate degree)  | 2016.02 ~ 2021.03 |
 | University(bachelor's degree) | 2021.02 ~ 2022.03 |
-| Multicampus                   | 2022.07 ~         |
+| Multicampus                   | 2022.07 ~ 2022.12 |
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJinGan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
